@@ -6,5 +6,7 @@ public class TestMain {
         System.out.println("hello git");
 
         System.out.println("hello master");
+
+        System.out.println("hello test");
     }
 }
